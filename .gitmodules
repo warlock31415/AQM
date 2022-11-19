@@ -1,0 +1,3 @@
+[submodule "BoardFiles/kicad-library-WeAct-RP2040-Pico"]
+	path = BoardFiles/kicad-library-WeAct-RP2040-Pico
+	url = https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico.git
