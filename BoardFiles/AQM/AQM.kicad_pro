@@ -380,8 +380,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "AQM.step",
+      "vrml": "AQM.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -427,6 +427,10 @@
     [
       "d0e2689d-de6c-4259-ad54-f4fa56ad1d2a",
       ""
+    ],
+    [
+      "98f76090-c01a-4831-87b3-609ae1394b36",
+      "I2C"
     ]
   ],
   "text_variables": {}
